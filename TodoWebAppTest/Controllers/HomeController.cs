@@ -26,5 +26,12 @@ namespace TodoWebAppTest.Controllers
 
             return View();
         }
+
+        public ActionResult test()
+        {
+            return View();
+        }
+
+
     }
 }
